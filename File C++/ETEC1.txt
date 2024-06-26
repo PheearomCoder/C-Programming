@@ -1,0 +1,5 @@
+
+NAME 	 CODE 	PRICE 	QTY
+Coca	1	2.2	3
+Milk	3	2.2	2
+		Total Product($) = 11
